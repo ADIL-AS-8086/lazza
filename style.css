@@ -1,0 +1,15 @@
+.navbar{
+    background-color: rgb(235, 229, 229);
+
+}
+.navbar ul li {
+    color: aliceblue;
+}
+
+.navbar-nav li a {
+    color: white;
+
+}
+.navbar-nav li a:hover{
+    color: red;
+}
